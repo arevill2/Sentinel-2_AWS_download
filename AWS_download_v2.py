@@ -19,7 +19,7 @@ from datetime import datetime
 
 # %reload_ext autoreload
 # %autoreload 2
-# %matplotlb inline
+# %matplotl inline
 # 
 """\
 Use sentinelhub to query AWS for S2 L2A data 
